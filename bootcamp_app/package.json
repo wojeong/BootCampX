@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/wojeong/BootCampX/issues"
   },
-  "homepage": "https://github.com/wojeong/BootCampX#readme"
+  "homepage": "https://github.com/wojeong/BootCampX#readme",
+  "dependencies": {
+    "pg": "^8.9.0"
+  }
 }
